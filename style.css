@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.stay-focused{
+    margin-left: 10%;
+    margin-top: 50px;
+}
+.first-headlines{
+    font-size: 22px;
+}
+.orange-color{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+}
+.flex-container{
+    display: flex;
+}
+.stay-focused img{
+    width: 70%;
+    padding-left: 30px;
+}
