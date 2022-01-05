@@ -5,11 +5,13 @@ body{
 .stay-focused{
     margin-left: 10%;
     margin-top: 50px;
+    margin-bottom: 30px;
 }
 .first-headlines{
     font-size: 22px;
     font-weight: 900;
     padding-left: 15px;
+    line-height: 28px;
     border-left: 3px solid orangered;
     border-radius: 3px;
 }
@@ -31,25 +33,51 @@ body{
 }
 .stay-focused button{
     background-color: tomato;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 9px;
-    padding-bottom: 9px;
+    padding: 13px 25px;
     border: 0;
     border-radius: 4px;
     color: white;
     margin-bottom: 20px;
     
 }
+.My-mission{
+    margin-bottom: 30px;
+}
 .My-mission h1{
     text-align: center;
     font-size: 25px;
     font-weight: 900;
+    margin-bottom: 50px;
 }
 .width-for-three{
-    width: 30%;
+    width: 26%;
+    margin-left: 3%;
 }
 
 .My-mission img{
-    width: 80%;
+    width: 45%;
+}
+.My-mission-sub-class{
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+.My-mission-sub-class p{
+    font-size: 12px;
+    
+}
+.Mission{
+    background-color: rgba(196, 242, 248, 0.478);
+    border-radius: 10px;
+    padding: 20px;
+}
+.Vission{
+    background-color: rgba(255, 203, 203, 0.671);
+    border-radius: 10px;
+    padding: 20px;
+}
+.Goals{
+    background-color: rgba(255, 235, 187, 0.493);
+    border-radius: 10px;
+    padding: 20px;
 }
