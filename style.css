@@ -55,7 +55,7 @@ button{
 }
 
 .My-mission img{
-    width: 60%;
+    width: 55%;
 }
 .My-mission-sub-class{
     margin-left: 10%;
@@ -82,21 +82,45 @@ button{
     padding: 20px;
 }
 .Develop-Without-Limits{
-    margin-left: 10%;
+    margin-left: 3%;
     margin-right: 10%;
     margin-bottom: 50px;
+    background-image: url(img/background-img.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: left;
     
+}
+.Develop-Without-Limits .width-img{
+    margin-left: 7%;
 }
 .width-img{
     width: 40%;
     
 }
 .width-img img{
-    width: 80%;
+    width: 90%;
+
 }
 .width-text{
     width: 60%;
+    padding: 0 10px;
 }
 .width-text p{
-    font-size: 14px;
+    font-size: 12px;
+    padding-right: 15px;
+}
+.Global-Community{
+    height: 300px;
+    margin-left: 10%;
+    margin-right: 7%;
+    margin-bottom: 50px;
+    background-image: url(img/background-img.png);
+    background-repeat: no-repeat;
+    background-size: 130px;
+    background-position: right bottom;
+    
+}
+.Global-Community .width-img{
+    margin-right: 3%;
 }
