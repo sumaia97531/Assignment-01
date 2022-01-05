@@ -124,3 +124,59 @@ button{
 .Global-Community .width-img{
     margin-right: 3%;
 }
+.About-Me{
+    margin: 60px 50px;
+}
+.About-Me img{
+    width: 70%;
+    padding-left: 30px;
+}
+.About-Me .Round-Shape{
+    height: 50px;
+    width: 50px;
+    font-size: 15px;
+    font-weight: bold;
+    display: inline-block;
+    padding: 30px;
+    border-radius: 50%;
+    text-align: center;
+}
+.About-Me #Resume{
+    background-color: rgba(32, 178, 171, 0.432);
+}
+
+.About-Me #Resume:hover{
+    background-color: rgba(32, 178, 171, 0.877);
+}
+.About-Me #Work{
+    background-color: rgba(255, 105, 180, 0.486);
+}
+
+.About-Me #Work:hover{
+    background-color: rgba(255, 105, 180, 0.89);
+}
+.About-Me #Skill{
+    background-color: rgba(255, 166, 0, 0.507);
+}
+
+.About-Me #Skill:hover{
+    background-color: rgba(255, 166, 0, 0.842);
+}
+footer{
+    height: 110px;
+    background-color: black;
+    text-align: center;padding: 10px;
+}
+footer p{
+    font-size: 10px;
+    color: rgba(255, 255, 255, 0.695);
+}
+footer h3{
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    padding-top: 10px;
+}
+footer span{
+color: red;
+}
