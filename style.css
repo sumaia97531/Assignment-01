@@ -31,7 +31,7 @@ body{
 .stay-focused p{
     font-size: 15px;
 }
-.stay-focused button{
+button{
     background-color: tomato;
     padding: 13px 25px;
     border: 0;
@@ -41,7 +41,7 @@ body{
     
 }
 .My-mission{
-    margin-bottom: 30px;
+    margin-bottom: 70px;
 }
 .My-mission h1{
     text-align: center;
@@ -55,7 +55,7 @@ body{
 }
 
 .My-mission img{
-    width: 45%;
+    width: 60%;
 }
 .My-mission-sub-class{
     margin-left: 10%;
@@ -80,4 +80,23 @@ body{
     background-color: rgba(255, 235, 187, 0.493);
     border-radius: 10px;
     padding: 20px;
+}
+.Develop-Without-Limits{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 50px;
+    
+}
+.width-img{
+    width: 40%;
+    
+}
+.width-img img{
+    width: 80%;
+}
+.width-text{
+    width: 60%;
+}
+.width-text p{
+    font-size: 14px;
 }
